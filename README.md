@@ -1,7 +1,5 @@
 # HTML builder
 
-This task was previously done by me: https://github.com/ilyabaranowski/HTML-builder
-
 ---
 
 ### Objectives:
@@ -47,3 +45,6 @@ Once the cross-check begins, access the guidelines by following [this link](http
 [04 Copying a Directory](https://github.com/rolling-scopes-school/HTML-builder/blob/main/04-copy-directory)  
 [05 Building the CSS Bundle](https://github.com/rolling-scopes-school/HTML-builder/blob/main/05-merge-styles)  
 [06 Building an HTML Page from Components and Styles](https://github.com/rolling-scopes-school/HTML-builder/blob/main/06-build-page)
+
+---
+This task was previously done by me: https://github.com/ilyabaranowski/HTML-builder
