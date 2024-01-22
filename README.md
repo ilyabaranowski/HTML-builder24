@@ -1,5 +1,7 @@
 # HTML builder
 
+This task was previously done by me: https://github.com/ilyabaranowski/HTML-builder
+
 ---
 
 ### Objectives:
